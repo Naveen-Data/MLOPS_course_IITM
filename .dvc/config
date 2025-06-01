@@ -1,0 +1,5 @@
+[core]
+    remote = gcsremote
+['remote "gcsremote"']
+    url = gs://mlops-week2-21f2000926/dvcstore
+    projectname = deductive-star-460704-t1
